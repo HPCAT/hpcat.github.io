@@ -1,0 +1,4 @@
+weight: 1
+name: "NoC"
+icon: "fa fa-desktop"
+description: "As power dissipation in future Networks-on-Chips (NoCs) is projected to be a major bottleneck, researchers are actively engaged in developing alternate power-efficient technology solutions."
