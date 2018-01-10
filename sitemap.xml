@@ -105,6 +105,22 @@
   </url>
   
   <url>
+    <loc>https://hpcat.github.io/grad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/hpcat_members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/pgrad/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/under/</loc>
+  </url>
+  
+  <url>
     <loc>https://hpcat.github.io/categories/memes/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -117,20 +133,14 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/categories/paper/</loc>
-    <lastmod>2018-01-06T22:51:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hpcat.github.io/tags/paper/</loc>
     <lastmod>2017-12-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/categories/programming/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://hpcat.github.io/categories/paper/</loc>
+    <lastmod>2018-01-06T22:51:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -141,9 +151,27 @@
   </url>
   
   <url>
+    <loc>https://hpcat.github.io/categories/programming/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hpcat.github.io/categories/pseudo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/bookchapters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/conferences/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/journals/</loc>
   </url>
   
   <url>
