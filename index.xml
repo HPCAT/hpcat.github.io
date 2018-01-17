@@ -27,7 +27,7 @@
       <pubDate>Thu, 21 Dec 2017 21:32:04 -0500</pubDate>
       
       <guid>https://hpcat.github.io/professor/</guid>
-      <description>Ahmed Louri     -- Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of the Electrical and Computer Engineering Department at The George Washington University , which he joined in August 2015. He is also the Director of the High performance Computing Architectures and Technologies Laboratory. He received his Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles in 1988.</description>
+      <description>Ahmed Louri     -- David and Marilyn Endowed Chair Professor of ECE Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of the Electrical and Computer Engineering Department at The George Washington University , which he joined in August 2015. He is also the Director of the High performance Computing Architectures and Technologies Laboratory. He received his Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles in 1988.</description>
     </item>
     
     <item>
@@ -118,29 +118,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/grad/</guid>
-      <description>Post-Graduate | Graduate Students | Undergraduate Students Ruhong Kang 
-
-
-Yuan Li 
-Yuan Li is working on 3D Network-on-Chip architectures. His research aims to facilitate high performance computing with novel architecturesi and mechanisms.</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>https://hpcat.github.io/hpcat_members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hpcat.github.io/hpcat_members/</guid>
-      <description>Post-Graduate | Graduate Students | Undergraduate Students Select a category</description>
-    </item>
-    
-    <item>
-      <title>Members</title>
-      <link>https://hpcat.github.io/pgrad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hpcat.github.io/pgrad/</guid>
-      <description>Post-Graduate | Graduate Students | Undergraduate Students  Hao Zheng 
+      <description>Post-Doctorate | Graduate Students | Undergraduate Students Hao Zheng 
 Hao Zheng worked on building a power-efficient Network-on-Chips (NoCs). His primary research interests are energy and performance optimization of the multi-core system.
 
 Priyankar Roychowdhury 
@@ -152,15 +130,33 @@ Ke’s research area lies on machine learning and NoCs design.</description>
     
     <item>
       <title>Members</title>
+      <link>https://hpcat.github.io/hpcat_members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/hpcat_members/</guid>
+      <description>Post-Doctorate | Graduate Students | Undergraduate Students Select a category</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://hpcat.github.io/pgrad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/pgrad/</guid>
+      <description>Post-Doctorate | Graduate Students | Undergraduate Students</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
       <link>https://hpcat.github.io/under/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/under/</guid>
-      <description>Post-Graduate | Graduate Students | Undergraduate Students  Sebastian Foubert 
+      <description>Post-Doctorate | Graduate Students | Undergraduate Students  Sebastian Foubert 
 Sebastian is a Computer Engineering major graduating in 2019. In 2018, he will be at NVIDIA, writing systems code for self-driving cars. In 2017 he worked in the Platform Engineering Group at Intel. His interests are systems and computer architecture.
 
 Parmvir Chahal 
-Computer Enginnering Class of 2019. Parmvir assists the laboratory in researching Network-on-Chips (NoCs) via tools such as WinMIPS.</description>
+Parmvir assists the laboratory in researching Network-on-Chips (NoCs) via tools such as WinMIPS. In addition, he aids the Graduate Research Assistants by maintaining a database of the sources.</description>
     </item>
     
     <item>
