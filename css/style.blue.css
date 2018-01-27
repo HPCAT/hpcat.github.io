@@ -1203,7 +1203,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 @media (max-width: 991px) {
-  .home-carousel h1 {
+  .home-carousels h1 {
     font-size: 36px;
   }
 }
@@ -1249,7 +1249,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  background: url('../img/H1_performance.jpg') center center repeat;
+/*  background: url('../img/H1_performance.jpg') center center repeat;*/
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -1273,7 +1273,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #666;
 }
 .home-carousel .owl-theme .owl-controls .owl-page.active span {
-  background: #fff;
+  background: #467fbf; /*#fff*/
 }
 .home-carousel .owl-theme .owl-controls .owl-page:hover span {
   background: #fff;
