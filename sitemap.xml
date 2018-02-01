@@ -105,11 +105,11 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/grad/</loc>
+    <loc>https://hpcat.github.io/hpcat_members/</loc>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/hpcat_members/</loc>
+    <loc>https://hpcat.github.io/grad/</loc>
   </url>
   
   <url>
@@ -163,6 +163,10 @@
   </url>
   
   <url>
+    <loc>https://hpcat.github.io/publications/</loc>
+  </url>
+  
+  <url>
     <loc>https://hpcat.github.io/bookchapters/</loc>
   </url>
   
@@ -172,10 +176,6 @@
   
   <url>
     <loc>https://hpcat.github.io/journals/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/publications/</loc>
   </url>
   
   <url>
