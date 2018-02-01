@@ -578,7 +578,7 @@ fieldset[disabled] .btn-template-main:active,
 .btn-template-main.disabled.active,
 .btn-template-main[disabled].active,
 fieldset[disabled] .btn-template-main.active {
-  background-color: #ffffff;
+  background-color: #000;
   border-color: #467fbf;
 }
 .btn-template-main .badge {
