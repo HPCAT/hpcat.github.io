@@ -27,7 +27,8 @@
       <pubDate>Thu, 21 Dec 2017 21:32:04 -0500</pubDate>
       
       <guid>https://hpcat.github.io/professor/</guid>
-      <description>Ahmed Louri     -- David and Marilyn Endowed Chair Professor of ECE Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of the Electrical and Computer Engineering Department at The George Washington University , which he joined in August 2015. He is also the Director of the High performance Computing Architectures and Technologies Laboratory. He received his Ph.D. degree in Computer Engineering from the University of Southern California, Los Angeles in 1988.</description>
+      <description>-- Ahmed Louri David and Marilyn Endowed Chair Professor of ECE Director, High Performance Computing Architectures and Technologies Lab (HPCAT), The George Washington University Fellow of the IEEE Associate Editor, IEEE Transactions on Emerging Topics in Computing Associate Editor, IEEE Transactions on Sustainable Computing Steering Committee Member, IEEE Transactions on Sustainable Computing 
+-- Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at the George Washington University, which he joined in August 2015.</description>
     </item>
     
     <item>
@@ -178,7 +179,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/conferences/</guid>
-      <description>Journal Papers | Conference Papers | Book Chapters    T. F. Canan, S. Kaya, A. Kodi, H. Xin and A. Louri, &#34;Ultra-compact sub-10nm logic circuits based on ambipolar SB-FinFETs,&#34; 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, 2017, pp. 100-103.  Y. Kelestemur, S. Laha, S. Kaya, A. Kodi, H. Xin and A. Louri, &#34;mm-Wave tunable colpitts oscillators based on FinFETs,&#34; 2017 IEEE 18th Wireless and Microwave Technology Conference (WAMICON), Cocoa Beach, FL, 2017, pp.</description>
+      <description>Journal Papers | Conference Papers | Book Chapters    M. Clark, A. Kodi, R. Bunescu and A. Louri, &#34;LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,&#34; to appear in Proceedings of the 55th Design Automation Conference (DAC), San Francisco, CA, 2018, pp. 1-.  A. Kodi, K. Shiflett, S. Kaya, S. Laha and A. Louri, &#34;Power-Efficient Kilo-Core Photonic-Wireless Hybrid NoCs,&#34; to appear in Proceedings of the 32nd IEEE International Symposium on Parallel and Distributed Processing (IPDPS), Vancouver, BC, 2018, pp.</description>
     </item>
     
     <item>
@@ -187,7 +188,25 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/journals/</guid>
-      <description>Journal Papers | Conference Papers | Book Chapters    A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu, &#34;Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies,&#34; IEEE Transactions on Sustainable Computing, to be published.  D. Machovec, B. Khemka, N. Kumbhare, S. Pasricha, A. A. Maciejewski, H. J. Siegel, A. Akoglu, G. A. Koenig, M. Wright, M. Hilton, R.</description>
+      <description>Journal Papers | Conference Papers | Book Chapters    A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu, &#34;Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies,&#34; to appear in IEEE Transactions on Sustainable Computing, 2018.  D. Machovec, B. Khemka, N. Kumbhare, S. Pasricha, A. A. Maciejewski, H. J. Siegel, A. Akoglu, G. A. Koenig, M. Wright, M.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/machinel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/machinel/</guid>
+      <description>Machine Learning for High Performance, Energy-Efficient and Reliable NoCs   With continued aggressive technology scaling, Network-on- Chips (NoCs) architectures are facing three major challenges including minimizing power consumption, scaling performance and providing a reliable and robust communication limited by area, power, and cost constraints. Researchers have proposed various techniques individually tackling these challenges, while few efforts to date have simultaneously targeted improving power, performance and reliability together. Due to the complexity of the interactions among three competing objectives and explosion of design space, it is harder to manually design rules and strategies for interconnection system for optimizing power, reliability and performance.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/nnaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/nnaa/</guid>
+      <description>Neural Networks Accelerator and Applications   Neural networks (NNs) have been successfully implemented in modern artificial intelligence (AI) applications ranging from image processing to speech recognition to natural language processing. While NNs deliver superior accuracy, they still suffer from the high cost of computational complexity and a significant amount of data movement. For example, convolutional neural networks (CNNs) are the most representative class of NNs, which have been widely applied to image classification.</description>
     </item>
     
   </channel>

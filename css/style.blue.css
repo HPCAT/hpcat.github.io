@@ -3187,6 +3187,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-color: #ffffff;
   border-color: #cccccc;
   border-bottom: none;
+  font-size: 20px;
 }
 .navbar-default .navbar-brand {
   color: #555555;
