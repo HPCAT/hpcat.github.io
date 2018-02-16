@@ -202,6 +202,15 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
     
     <item>
       <title>Research Topic</title>
+      <link>https://hpcat.github.io/machinel2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/machinel2/</guid>
+      <description>Energy-Efficient Scalable Multicore Architectures   Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended. The end of voltage scaling has made power dissipation the fundamental barrier to scaling computing performance across all platforms –from hand-held, embedded systems, to laptops, to servers, to datacenters. This challenge, often called the power wall, is seen across the board. To meet power challenges, recent research has proposed various low-power techniques.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
       <link>https://hpcat.github.io/nnaa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
