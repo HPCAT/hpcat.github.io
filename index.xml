@@ -202,6 +202,15 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
     
     <item>
       <title>Research Topic</title>
+      <link>https://hpcat.github.io/hete_arch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/hete_arch/</guid>
+      <description>Accelerator-rich Heterogeneous Architectures   The performance and energy scaling that used to accompany transistor technology scaling has diminished. In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with specialized accelerators, as accelerators are optimized for specific applications and orders of magnitude more efficient. Heterogeneous chip components trend places several challenges on on-chip network design.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
       <link>https://hpcat.github.io/machinel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
