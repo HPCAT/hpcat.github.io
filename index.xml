@@ -197,7 +197,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/emerging/</guid>
-      <description>Neural Networks Accelerator and Applications   With technology scaling, it has been possible to integrate increasing number of cores on a single chip. As a result, there is a shift from multi-core to many-core architectures containing hundreds to a thousand cores. However, traditional on-chip metallic interconnects are not suitable to support many-core architectures due to increased hop-count, high power dissipation, and increased latency. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
+      <description>Emerging Interconnects Technologies for Network-on- Chips   There is a shift from multi-core to many-core architectures containing hundreds to a thousand cores on a single chip. However, traditional on-chip metallic interconnects require excessive power as technology keeps scaling and will not be able to provide communication support for manycore architectures. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/hete_arch/</guid>
-      <description>Accelerator-rich Heterogeneous Architectures   The performance and energy scaling that used to accompany transistor technology scaling has diminished. In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with specialized accelerators, as accelerators are optimized for specific applications and orders of magnitude more efficient. Heterogeneous chip components trend places several challenges on on-chip network design.</description>
+      <description>Accelerator-rich Heterogeneous Architectures   In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with specialized hardware or accelerators. These accelerators, which are optimized for specific applications (e.g., application-specific integrated circuits), can improve energy efficiency per operation by orders of magnitude over software running on general-purpose cores. The integration of general-purpose cores with accelerators on the same chip in a heterogeneous design environment, places several challenges on the NoC design.</description>
     </item>
     
     <item>

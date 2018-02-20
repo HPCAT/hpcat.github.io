@@ -197,32 +197,34 @@
 <p><font size="+1"></p>
 
 <p style="text-align: justify;">
-The performance and energy scaling that used to accompany transistor technology scaling has
-diminished. In the dark silicon era, only a fraction of transistors on a chip can be switched
-simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose
-cores are augmented with specialized accelerators, as accelerators are optimized for specific
-applications and orders of magnitude more efficient.
+In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to
+constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with
+specialized hardware or accelerators. These accelerators, which are optimized for specific applications
+(e.g., application-specific integrated circuits), can improve energy efficiency per operation by orders
+of magnitude over software running on general-purpose cores.
 </p>
 
 <p style="text-align: justify;">
-Heterogeneous chip components trend places
-several challenges on on-chip network design. NoC needs to be heterogeneous to support different
-cores and accelerators and different activated subsets of on-chip nodes. Besides, traffic over the NoC
-can have dynamically varying patterns based on application demands.
+The integration of general-purpose
+cores with accelerators on the same chip in a heterogeneous design environment, places several
+challenges on the NoC design. The NoC needs to be heterogeneous to support different cores and
+accelerators and different activated subsets of on-chip nodes. Besides, traffic over the NoC can have
+dynamically varying patterns based on application demands. In this research project, we address the
+NoC design challenges, by fully exploring the traffic models of diverse types of cores and accelerators,
+and then designing network architectures that can be configured to adapt to specific workloads.
 </p>
 
 <p style="text-align: justify;">
-We intend to resolve these
-challenges by fully exploring the traffic models of diverse types of cores and accelerators, and then
-designing network architectures that can be configured to adapt to specific workloads.
+Additionally, we consider heterogeneous technologies for the implementation of these accelerator-
+rich architectures. Recent 3-D integration techniques have enabled multiple logic dies, and memory
+dies of different technologies (SRAM, DRAM, NVM etc.) to be integrated on the same chip.
 </p>
 
 <p style="text-align: justify;">
-In addition, recent 3-D integration techniques have enabled multiple logic dies, and memory dies of
-different technologies (SRAM, DRAM, NVM etc.) to be integrated on the same chip. It complicates
-NoC design by incorporating new vertical channels and enabling more flexible memory access
-schemes. We are especially interested in utilizing the vertical interconnects in 3-D heterogeneous
-architectures for fast and high-bandwidth inter-core communication and on-chip memory access.
+It
+complicates NoC design by incorporating new vertical channels and enabling more flexible memory
+access schemes. We are exploring 3-D NoC design and heterogeneous technologies for fast and high-
+bandwidth inter-core communication and on-chip memory access.
 </p>
 
 <p></font>
