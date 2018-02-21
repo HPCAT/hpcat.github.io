@@ -1184,10 +1184,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousels h1,
 .home-carousels h2 {
-    color: #000
+    color: #000;
 }
 .home-carousels p {
-    color: #000
+    color: #000;
 }
 .home-carousels h3,
 .home-carousels h4,
@@ -1235,7 +1235,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousels ul,
 .home-carousels p {
-  font-size: 20px;
+  font-size: 16px;
 /*  font-weight: 700;*/
   padding: 0;
 /*  text-transform: uppercase;*/

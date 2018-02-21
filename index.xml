@@ -197,7 +197,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/emerging/</guid>
-      <description>Emerging Interconnects Technologies for Network-on- Chips   There is a shift from multi-core to many-core architectures containing hundreds to a thousand cores on a single chip. However, traditional on-chip metallic interconnects require excessive power as technology keeps scaling and will not be able to provide communication support for manycore architectures. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
+      <description>Emerging Interconnects Technologies for Network-on-Chips   There is a shift from multi-core to many-core architectures containing hundreds to a thousand cores on a single chip. However, traditional on-chip metallic interconnects require excessive power as technology keeps scaling and will not be able to provide communication support for manycore architectures. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
     </item>
     
     <item>
@@ -225,6 +225,15 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       
       <guid>https://hpcat.github.io/machinel2/</guid>
       <description>Energy-Efficient Scalable Multicore Architectures   Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended. The end of voltage scaling has made power dissipation the fundamental barrier to scaling computing performance across all platforms –from hand-held, embedded systems, to laptops, to servers, to datacenters. This challenge, often called the power wall, is seen across the board. To meet power challenges, recent research has proposed various low-power techniques.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/neardatacomp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/neardatacomp/</guid>
+      <description>  Approximate Communications and Near Data Computing   Under Construction  </description>
     </item>
     
     <item>
