@@ -91,7 +91,7 @@ div.section {
   margin-bottom: 20px !important;
 }
 .heading {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 .heading h1,
 .heading h2,
@@ -306,7 +306,7 @@ ul.list-style-none {
 }
 .navbar ul.nav > li > a {
   text-transform: uppercase;
-  text-decoration: underline;
+/*  text-decoration: underline;*/
   font-weight: bold;
   letter-spacing: 0.08em;
   border-top: solid 5px transparent;
@@ -1210,7 +1210,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousels h2 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 40px;/*29*/
+  font-size: 30px;/*29*/
   letter-spacing: 0.08em;
 }
 /*h3 is shit*/
@@ -1855,19 +1855,21 @@ fieldset[disabled] .btn-template-primary.active {
   border: none;
 }
 #heading-breadcrumbs {
-  background: url('../img/technology_background.png') center center repeat;
-  padding: 20px 0;
+  background: url('../img/technology_background_2.png') center center repeat;
+  padding: 90px 0;
   margin-bottom: 40px;
 }
 #heading-breadcrumbs.no-mb {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  color: #333333;
+/*  color: #333333;*/
+  color: #333333; 
   text-transform: uppercase;
-  font-size: 30px;
+  font-size: 60px;
   font-weight: 700;
   letter-spacing: 0.08em;
+  text-align: center;
 }
 @media (max-width: 991px) {
   #heading-breadcrumbs h1 {
@@ -1888,6 +1890,11 @@ fieldset[disabled] .btn-template-primary.active {
   border-top: solid 1px #999999;
   border-bottom: solid 1px #999999;
 }
+.bar.background-pentagons {
+  background: url('../img/technology_background_2.png') center center repeat;
+  border-top: solid 1px #999999;
+  border-bottom: solid 1px #999999;
+}
 .bar.background-gray {
   background: #eeeeee;
 }
@@ -1895,6 +1902,10 @@ fieldset[disabled] .btn-template-primary.active {
   background: #555555;
 }
 .bar.background-white {
+  background: #fff;
+  border-bottom: solid 1px #999999;
+}
+.bar.background-whites {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
@@ -2962,6 +2973,7 @@ fieldset[disabled] .btn-template-primary.active {
     width: auto;
     border-top: 0;
     box-shadow: none;
+    text-align:center;
   }
   .navbar-collapse.collapse {
     display: block !important;
@@ -3095,8 +3107,11 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (min-width: 768px) {
   .navbar-nav {
-    float: left;
+/*    float: left;
     margin: 0;
+*/
+    display:inline-block;
+    float: none;
   }
   .navbar-nav > li {
     float: left;
