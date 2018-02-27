@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, HPCAT; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 06 Jan 2018 22:51:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hpcat.github.io/tags/ieee/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dr. Louri and his Graduate Student, Priyankar Roychowdhury, have Published a Frontiers in Optics Conference Paper titled: “Reconfigurable All-Photonic Inter-Rack Interconnect for Data-Centers”</title>
+      <link>https://hpcat.github.io/blog/2018/02/26/paper4/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/02/26/paper4/</guid>
+      <description>Dr. Louri and his graduate student (P. Roychowdhury and A. Louri) have published a conference paper titled: “Reconfigurable All-Photonic Inter-Rack Interconnect for Data-Centers,” in Proceedings of Frontiers in Optics 2017, Washington, D.C., 2017.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Louri and his Research Team have Published a Design Automation Conference Paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs”</title>
+      <link>https://hpcat.github.io/blog/2018/02/26/paper1/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/02/26/paper1/</guid>
+      <description>Dr. Louri and his research team (M. Clark, A. Kodi, R. Bunescu and A. Louri) have published a conference paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,” to appear in Proceedings of the 55th Design Automation Conference (DAC), San Francisco, CA, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning”</title>
+      <link>https://hpcat.github.io/blog/2018/02/26/paper3/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/02/26/paper3/</guid>
+      <description>Dr. Louri and his research team (S. V. Winkle, A. Kodi, R. Bunescu and A. Louri) have published a conference paper titled: “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,” to appear in Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Vienna, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Power-Efficient Kilo-Core Photonic-Wireless Hybrid NoCs”</title>
+      <link>https://hpcat.github.io/blog/2018/02/26/paper2/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/02/26/paper2/</guid>
+      <description>Dr. Louri and his research team (A. Kodi, K. Shiflett, S. Kaya, S. Laha and A. Louri) have published a conference paper titled: “Power-Efficient Kilo-Core Photonic-Wireless Hybrid NoCs,” to appear in Proceedings of the 32nd IEEE International Symposium on Parallel and Distributed Processing (IPDPS), Vancouver, BC, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Louri and his Research Team have Published an IEEE Transactions Article titled: “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies</title>
+      <link>https://hpcat.github.io/blog/2018/02/26/article1/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/02/26/article1/</guid>
+      <description>Dr. Louri and his research team (A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu) have published a journal article titled: “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies” to appear in IEEE Transactions on Sustainable Computing, 2018.</description>
+    </item>
     
     <item>
       <title>Monopoles Loaded With 3-D-Printed Dielectrics !</title>
