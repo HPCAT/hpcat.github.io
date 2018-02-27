@@ -102,7 +102,7 @@ div.section {
   border-bottom: solid 5px #467fbf;
   line-height: 1.1;
   margin-bottom: 0;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   vertical-align: middle;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -1210,7 +1210,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousels h2 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 30px;/*29*/
+  font-size: 40px;/*29*/
   letter-spacing: 0.08em;
 }
 /*h3 is shit*/
@@ -1856,7 +1856,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #heading-breadcrumbs {
   background: url('../img/technology_background_2.png') center center repeat;
-  padding: 50px 0;
+  padding: 30px 0;
   margin-bottom: 40px;
 }
 #heading-breadcrumbs.no-mb {
@@ -1866,7 +1866,7 @@ fieldset[disabled] .btn-template-primary.active {
 /*  color: #333333;*/
   color: #333333; 
   text-transform: uppercase;
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-align: center;
@@ -1883,7 +1883,7 @@ fieldset[disabled] .btn-template-primary.active {
 .bar {
   position: relative;
   background: #467fbf;
-  padding: 60px 0;
+  padding: 30px 0;
 }
 .bar.background-pentagon {
   background: url('../img/technology_background_4.jpg') center center repeat;
@@ -3297,7 +3297,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "calibri", Garamond, Arial, serif;
+/*  font-family: "Roboto", Helvetica, Arial, sans-serif;*/
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;

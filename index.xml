@@ -173,7 +173,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/members/</guid>
-      <description> Select a category  Post-Doctorate | Graduate Students | Undergraduate Students 
+      <description>  Post-Doctorate | Graduate Students | Undergraduate Students 
   </description>
     </item>
     
@@ -207,6 +207,15 @@ Farhadur Reza Md Farhadur Reza is a PostDoctoal Scientist in the High Performanc
       <guid>https://hpcat.github.io/under/</guid>
       <description>Post-Doctorate | Graduate Students | Undergraduate Students   Sebastian Foubert Sebastian is a Computer Engineering major graduating in 2019. In 2018, he will be at NVIDIA, writing systems code for self-driving cars. In 2017 he worked in the Platform Engineering Group at Intel. His interests are systems and computer architecture. 
 Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (NoCs) via tools such as WinMIPS. In addition, he aids the Graduate Research Assistants by maintaining a database of the sources.</description>
+    </item>
+    
+    <item>
+      <title>NEWS</title>
+      <link>https://hpcat.github.io/underc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/underc/</guid>
+      <description>UNDER CONSTRUCTION</description>
     </item>
     
     <item>
