@@ -72,7 +72,7 @@
       <pubDate>Thu, 21 Dec 2017 21:32:04 -0500</pubDate>
       
       <guid>https://hpcat.github.io/professor/</guid>
-      <description>-- Ahmed Louri David and Marilyn Karlgaard Endowed Chair Professor of ECE Director, High Performance Computing Architectures and Technologies Lab (HPCAT), The George Washington University Fellow of the IEEE Associate Editor, IEEE Transactions on Emerging Topics in Computing Associate Editor, IEEE Transactions on Sustainable Computing Steering Committee Member, IEEE Transactions on Sustainable Computing 
+      <description>-- Ahmed Louri IEEE Fellow David and Marilyn Karlgaard Endowed Chair Professor of ECE Director, High Performance Computing Architectures and Technologies Lab (HPCAT) Associate Editor, IEEE Transactions on Emerging Topics in Computing Associate Editor, IEEE Transactions on Sustainable Computing 
 -- Dr. Ahmed Louri is the David and Marilyn Karlgaard Endowed Chair Professor of Electrical and Computer Engineering at the George Washington University, which he joined in August 2015.</description>
     </item>
     
@@ -272,7 +272,9 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/machinel/</guid>
-      <description>Machine Learning for High Performance, Energy-Efficient and Reliable NoCs   With continued aggressive technology scaling, Network-on- Chips (NoCs) architectures are facing three major challenges including minimizing power consumption, scaling performance and providing a reliable and robust communication limited by area, power, and cost constraints. Researchers have proposed various techniques individually tackling these challenges, while few efforts to date have simultaneously targeted improving power, performance and reliability together. Due to the complexity of the interactions among three competing objectives and explosion of design space, it is harder to manually design rules and strategies for interconnection system for optimizing power, reliability and performance.</description>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Machine Learning for High Performance, Energy-Efficient and Reliable NoCs   Current Researchers: TBD; 
+With continued aggressive technology scaling, Network-on- Chips (NoCs) architectures are facing three major challenges including minimizing power consumption, scaling performance and providing a reliable and robust communication limited by area, power, and cost constraints.</description>
     </item>
     
     <item>
