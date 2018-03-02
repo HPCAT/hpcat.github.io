@@ -3,33 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hpcat.github.io/blog/2018/02/26/paper4/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <loc>https://hpcat.github.io/blog/2018/03/02/paper4/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/blog/2018/02/26/paper1/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <loc>https://hpcat.github.io/blog/2018/03/02/paper1/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/blog/2018/02/26/paper3/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <loc>https://hpcat.github.io/blog/2018/03/02/paper5/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/blog/2018/02/26/paper2/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <loc>https://hpcat.github.io/blog/2018/03/02/paper3/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/blog/2018/02/26/article1/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <loc>https://hpcat.github.io/blog/2018/03/02/paper2/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/blog/2018/01/06/example1/</loc>
-    <lastmod>2018-01-06T22:51:46+02:00</lastmod>
+    <loc>https://hpcat.github.io/blog/2018/03/02/article1/</loc>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -40,11 +40,6 @@
   <url>
     <loc>https://hpcat.github.io/position/</loc>
     <lastmod>2017-12-21T17:50:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/blog/2017/12/10/example4/</loc>
-    <lastmod>2017-12-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
@@ -74,7 +69,7 @@
   
   <url>
     <loc>https://hpcat.github.io/blog/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,13 +96,7 @@
   
   <url>
     <loc>https://hpcat.github.io/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/tags/hao/</loc>
-    <lastmod>2017-12-10T13:07:31+02:00</lastmod>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,7 +108,7 @@
   
   <url>
     <loc>https://hpcat.github.io/tags/ieee/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,7 +120,7 @@
   
   <url>
     <loc>https://hpcat.github.io/categories/journal-article/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -172,26 +161,20 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/tags/paper/</loc>
-    <lastmod>2017-12-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hpcat.github.io/categories/paper/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hpcat.github.io/categories/programming/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
