@@ -196,7 +196,7 @@ Ke Wang Ke’s research area lies on machine learning and NoCs design.</descript
       
       <guid>https://hpcat.github.io/pgrad/</guid>
       <description>Post-Doctorate | Graduate Students | Undergraduate Students  
-Farhadur Reza Md Farhadur Reza is a PostDoctoal Scientist in the High Performance Computing Architectures and Technologies Laboratory (HPCAT) at the George Washington University. He received PhD and MS in computer science from the Center for Advanced Computer Studies (CACS) at the University of Louisiana at Lafayette in 2017 and 2014, respectively. His research interests include high-performance many-core architecture, energy efficient networks-on-chip, resource management and optimization, and machine learning techniques.</description>
+Md Farhadur Reza Md Farhadur Reza is a PostDoctoal Scientist in the High Performance Computing Architectures and Technologies Laboratory (HPCAT) at the George Washington University. He received PhD and MS in computer science from the Center for Advanced Computer Studies (CACS) at the University of Louisiana at Lafayette in 2017 and 2014, respectively. His research interests include high-performance many-core architecture, energy efficient networks-on-chip, resource management and optimization, and machine learning techniques.</description>
     </item>
     
     <item>
@@ -263,7 +263,9 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/hete_arch/</guid>
-      <description>Accelerator-rich Heterogeneous Architectures   In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with specialized hardware or accelerators. These accelerators, which are optimized for specific applications (e.g., application-specific integrated circuits), can improve energy efficiency per operation by orders of magnitude over software running on general-purpose cores. The integration of general-purpose cores with accelerators on the same chip in a heterogeneous design environment, places several challenges on the NoC design.</description>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Accelerator-rich Heterogeneous Architectures   Current Researchers: TBD; 
+In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with specialized hardware or accelerators. These accelerators, which are optimized for specific applications (e.</description>
     </item>
     
     <item>
@@ -283,7 +285,9 @@ With continued aggressive technology scaling, Network-on- Chips (NoCs) architect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/machinel2/</guid>
-      <description>Energy-Efficient Scalable Multicore Architectures   Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended. The end of voltage scaling has made power dissipation the fundamental barrier to scaling computing performance across all platforms –from hand-held, embedded systems, to laptops, to servers, to datacenters. This challenge, often called the power wall, is seen across the board. To meet power challenges, recent research has proposed various low-power techniques.</description>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Energy-Efficient Scalable Multicore Architectures   Current Researchers: TBD; 
+Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended. The end of voltage scaling has made power dissipation the fundamental barrier to scaling computing performance across all platforms –from hand-held, embedded systems, to laptops, to servers, to datacenters.</description>
     </item>
     
     <item>
