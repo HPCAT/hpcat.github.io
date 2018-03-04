@@ -86,61 +86,6 @@
     </item>
     
     <item>
-      <title>News #2</title>
-      <link>https://hpcat.github.io/news/example4/</link>
-      <pubDate>Mon, 10 Oct 2016 13:07:31 +0200</pubDate>
-      
-      <guid>https://hpcat.github.io/news/example4/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>MEMES MEMES MEMES</title>
-      <link>https://hpcat.github.io/news/example5/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://hpcat.github.io/news/example5/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://hpcat.github.io/news/example3/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://hpcat.github.io/news/example3/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>CPUs are for lovers</title>
-      <link>https://hpcat.github.io/news/example2/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://hpcat.github.io/news/example2/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Some Post #1</title>
-      <link>https://hpcat.github.io/news/example1/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://hpcat.github.io/news/example1/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://hpcat.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -241,11 +186,33 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
     
     <item>
       <title>Research Topic</title>
+      <link>https://hpcat.github.io/design_reconfig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/design_reconfig/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Design of Reconfigurable and Scalable Optical Interconnection Networks for Balanced Parallel Computing Systems   Project Description 
+The dramatic scaling and improvements in complementary metal-oxide semiconductor (CMOS) technology, coupled with innovations in computer architecture, have created an information technology society and a national economy very much dependent on a steady exponential growth in computing power.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
       <link>https://hpcat.github.io/emerging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/emerging/</guid>
       <description>Emerging Interconnects Technologies for Network-on-Chips   There is a shift from multi-core to many-core architectures containing hundreds to a thousand cores on a single chip. However, traditional on-chip metallic interconnects require excessive power as technology keeps scaling and will not be able to provide communication support for manycore architectures. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/free-space_opt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/free-space_opt/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ A Free-space Optical Crossbar Switch Using Wavelength Division Multiplexing and VSCELs   Project Motivation 
+This project investigates the application of optical interconnects for use in high-speed massively parallel computer systems. We are currently developing a design for a novel, highly-integrated, highly-scalable optical interconnect architecture call the Scalable Optical Crossbar Network (SOCN).</description>
     </item>
     
     <item>
@@ -257,6 +224,17 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
  Accelerator-rich Heterogeneous Architectures   Current Researchers: TBD; 
 In the dark silicon era, only a fraction of transistors on a chip can be switched simultaneously due to constrained power budget. To improve energy-efficiency, general-purpose cores are augmented with specialized hardware or accelerators. These accelerators, which are optimized for specific applications (e.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/heterogenous_inter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/heterogenous_inter/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Heterogenous Interconnect Technologies (Photonics, 3D Stacking, RF) for Scalable NoCs   Publications 
+R. W. Morris, A. K. Kodi, A. Louri and R. D. Whaley, &amp;ldquo;Three-Dimensional Stacked Nanophotonic Network-on-Chip Architecture with Minimal Reconfiguration,&amp;rdquo; in IEEE Transactions on Computers, vol. 63, no. 1, pp. 243-255, Jan.</description>
     </item>
     
     <item>
@@ -283,6 +261,39 @@ Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended.
     
     <item>
       <title>Research Topic</title>
+      <link>https://hpcat.github.io/multi-domain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/multi-domain/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Multi-Domain Modeling and Simulation of Optical Interconnects for Multiprocessor Application   Project Description 
+The end-to-end system design and simulation of optical interconnects for high performance and scalable multiprocessor systems for box-to-box, backplane, intra-board and intra-chip applications must address a number of considerations including system performance, power consumption, thermal properties, and cost.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/multi-wavelength/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/multi-wavelength/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Multi-Wavelength Optical Content Addressable Parallel Processor (MW-OCAPP)   Project Motivation 
+Databases are becoming key elements in the Information Age. Database machines, likewise, are the central enablers for current and future progress in Information Technology. Optics, because of its inherent parallelism, has long been seen as a vehicle for large-scale database processing.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/nano-photo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/nano-photo/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Nano-Photonics for Network on Chips   Publications 
+R. Morris, A. K. Kodi and A. Louri, &amp;ldquo;Dynamic Reconfiguration of 3D Photonic Networks-on-Chip for Maximizing Performance and Improving Fault Tolerance,&amp;rdquo; in Proceedings of the 2012 45th Annual IEEE/ACM International Symposium on Microarchitecture, Vancouver, BC, 2012, pp.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
       <link>https://hpcat.github.io/neardatacomp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -297,6 +308,82 @@ Over the last decade, Moore’s Law has slowed, while Dennard Scaling has ended.
       
       <guid>https://hpcat.github.io/nnaa/</guid>
       <description>Neural Networks Accelerator and Applications   Neural networks (NNs) have been successfully implemented in modern artificial intelligence (AI) applications ranging from image processing to speech recognition to natural language processing. While NNs deliver superior accuracy, they still suffer from the high cost of computational complexity and a significant amount of data movement. For example, convolutional neural networks (CNNs) are the most representative class of NNs, which have been widely applied to image classification.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/optical_interconnects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/optical_interconnects/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Optical Interconnects for the Design of Large Scale Symmetric Multiprocessors   Project Motivation 
+Symmetric multiprocessors (SMPs) are attractive parallel computers widely used, since they provide a global physical address space and a symmetric access to the entire memory with increased flexibility and programmability. SMPs use fast snooping protocols to maintain cache coherence by broadcasting every request on the shared bus connecting all modules.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/optical_multi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/optical_multi/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Optical Multi-Mesh Hypercube Interconnection Network   Project Motivation As both silicon and GaAs based technologies drive device speed into the gigahertz (Ghz) frequency range, and rise times down to small fractions of nanoseconds, communications, not device speed, between subsystems and chips at higher and higher data rates are the limiting and decisive factor for performance and cost of high-speed computing systems.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/optical_proc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/optical_proc/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Optical Processing Techniques for High Speed Searching and Matching Applications   Project Description 
+Searching in its various forms has emerged as a fundamental and decisive operation in many of these applications including database processing, artificial intelligence, data mining, security, high-performance computing, and communications. Searching and table lookup can be significantly improved by the use of the content-addressable memory ( CAM ) processing model instead of the location-addressable memory model.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/optical_switching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/optical_switching/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Optical Switching Fabrics for Scalable IP Routers   Project Description 
+The increasing dependence of today&#39;s information infrastructure on the Internet is due partly to the robust and flexible IP and advancements in optical fiber communication technology. It has already been observed that the Internet traffic doubles every 1.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/perf_adapt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/perf_adapt/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Performance-Adaptive and Power-Aware Hybrid Opto-Electronic Interconnects for HPCs   [A] Architecture and Algorithms 
+As communication distances and bit rates increase, opto-electronic interconnects are being deployed for designing highbandwidth low-latency interconnection networks for high performance computing (HPC) systems. While bandwidth scaling with efficient multiplexing techniques (wavelengths, time and space) are available, static assignment of wavelengths can be detrimental to network performance for non-uniform (adversial) workloads.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/reliable_and_fault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/reliable_and_fault/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Reliable and Fault-Tolerant Network-on-Chips for Multi-Core Architectures and Embedded Systems   Project Description 
+This research addresses the reliability and fault tolerance of the Network-on-Chip (NoC) as the number of cores on the chip increases. It balances reliability, power-efficiency and performance. It consists of four inter related projects: (1) Multi-layer fault tolerance spanning from devices to applications (2) Tackling both hard faults and soft errors within a NoC router (3) Tackling only hard faults within a NoC router (4) Tackling only soft errors within a NoC router.</description>
+    </item>
+    
+    <item>
+      <title>Research Topic</title>
+      <link>https://hpcat.github.io/scalable_cache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/scalable_cache/</guid>
+      <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
+ Scalable Cache Coherent Scheme for Distributed Shared Memory Systems   Project Description 
+As we slowly approach the physical limits of processor and memory speed, it is becoming more attractive to use multiprocessors to increase computing power. Two kinds of parallel processors have become popular: tightly coupled shared memory multiprocessor and distributed memory multiprocessors.</description>
     </item>
     
   </channel>

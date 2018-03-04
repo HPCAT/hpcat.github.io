@@ -43,31 +43,6 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/news/example4/</loc>
-    <lastmod>2016-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/news/example5/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/news/example3/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/news/example2/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/news/example1/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hpcat.github.io/blog/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -83,38 +58,14 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hpcat.github.io/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hpcat.github.io/tags/ieee/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/tags/ipsum/</loc>
-    <lastmod>2016-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,42 +96,12 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/categories/memes/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hpcat.github.io/underc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/news/</loc>
-    <lastmod>2016-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hpcat.github.io/categories/paper/</loc>
     <lastmod>2018-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/categories/programming/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,11 +118,23 @@
   </url>
   
   <url>
+    <loc>https://hpcat.github.io/design_reconfig/</loc>
+  </url>
+  
+  <url>
     <loc>https://hpcat.github.io/emerging/</loc>
   </url>
   
   <url>
+    <loc>https://hpcat.github.io/free-space_opt/</loc>
+  </url>
+  
+  <url>
     <loc>https://hpcat.github.io/hete_arch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/heterogenous_inter/</loc>
   </url>
   
   <url>
@@ -213,6 +146,18 @@
   </url>
   
   <url>
+    <loc>https://hpcat.github.io/multi-domain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/multi-wavelength/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/nano-photo/</loc>
+  </url>
+  
+  <url>
     <loc>https://hpcat.github.io/neardatacomp/</loc>
   </url>
   
@@ -221,26 +166,36 @@
   </url>
   
   <url>
-    <loc>https://hpcat.github.io/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://hpcat.github.io/optical_interconnects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/optical_multi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/optical_proc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/optical_switching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/perf_adapt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/reliable_and_fault/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hpcat.github.io/scalable_cache/</loc>
   </url>
   
   <url>
     <loc>https://hpcat.github.io/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpcat.github.io/categories/xv6/</loc>
-    <lastmod>2016-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2018-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
