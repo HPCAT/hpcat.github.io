@@ -171,7 +171,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/journals/</guid>
-      <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo;; margin: 2em; display: block; font-size: 5px; }  
+      <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo; ; margin: 2em; display: block; font-size: 5px; }  
  A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu, &amp;ldquo;Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies,&amp;rdquo; to appear in IEEE Transactions on Sustainable Computing, 2018.</description>
     </item>
     
