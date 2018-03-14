@@ -193,7 +193,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
-                                      <a href="https://hpcat.github.io/blog/2018/03/02/paper1/">
+                                      <a href="https://hpcat.github.io/blog/2018/03/14/paper1/">
                                           
                                           <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
                                           
@@ -201,7 +201,7 @@
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="https://hpcat.github.io/blog/2018/03/02/paper1/">Dr. Louri and his Research Team have Published a Design Automation Conference Paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs”</a></h2>
+                                    <h2><a href="https://hpcat.github.io/blog/2018/03/14/paper1/">Dr. Louri and his Research Team Design Automation Conference Paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs” has been accepted</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           
@@ -213,11 +213,11 @@
 
                                         </p>
                                         <p class="date-comments">
-                                            <a href="https://hpcat.github.io/blog/2018/03/02/paper1/"><i class="fa fa-calendar-o"></i> March 2, 2018</a>
+                                            <a href="https://hpcat.github.io/blog/2018/03/14/paper1/"><i class="fa fa-calendar-o"></i> March 14, 2018</a>
                                         </p>
                                     </div>
                                     <p class="intro">Professor Ahmed Louri and his research team (M. Clark, A. Kodi, R. Bunescu and A. Louri) have published a conference paper that explores learning-enabled, energy-aware dynamic voltage and frequency scaling in NOCs. The paper titled &ldquo;LEAD: Learning-Enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,&rdquo; will appear in Proceedings of the 55th ACM/EDAC/IEEE Design Automation Conference (DAC), June 24-28, 2018, San Francisco, CA. DAC is the world&rsquo;s premier EDA and semiconductor design conference and exhibition.</p>
-                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/02/paper1/" class="btn btn-template-main">Continue reading</a>
+                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/14/paper1/" class="btn btn-template-main">Continue reading</a>
                                     </p>
                                 </div>
                             </div>
@@ -227,7 +227,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
-                                      <a href="https://hpcat.github.io/blog/2018/03/02/paper5/">
+                                      <a href="https://hpcat.github.io/blog/2018/03/13/paper2/">
                                           
                                           <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
                                           
@@ -235,7 +235,7 @@
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="https://hpcat.github.io/blog/2018/03/02/paper5/">Dr. Louri and his Research Team have Published a USNC_USRI NAtional Radio Science Meeting Conference Paper titled: “Reconfigurable Intra-chip Antenna for Future Wireless Communications”</a></h2>
+                                    <h2><a href="https://hpcat.github.io/blog/2018/03/13/paper2/">Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Power-Efficient Kilo-Core Photonic-Wireless Hybrid NoCs” has been accepted</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           
@@ -247,79 +247,11 @@
 
                                         </p>
                                         <p class="date-comments">
-                                            <a href="https://hpcat.github.io/blog/2018/03/02/paper5/"><i class="fa fa-calendar-o"></i> March 2, 2018</a>
-                                        </p>
-                                    </div>
-                                    <p class="intro">Professor Ahmed Louri and his research team (Y. Sharma, J. Wu, A. Kantemur, J. Tak, A. Kodi, S. Kaya and H. Xin) have published a conference paper that explores future wireless communications via reconfigurable intra-chip antenna. The paper titled “Reconfigurable Intra-Chip Antenna for Future Wireless Communications,” will appear in Proceedings of the 2018 USNC-USRI National Radio Science Meeting (NRSM), Jan. 4-7, 2018, Boulder, CO. NRSM is an open scientific meeting sponsored by the U.</p>
-                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/02/paper5/" class="btn btn-template-main">Continue reading</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </section>
-                        
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="https://hpcat.github.io/blog/2018/03/02/paper3/">
-                                          
-                                          <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
-                                          
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2><a href="https://hpcat.github.io/blog/2018/03/02/paper3/">Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning”</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          
-                                          
-                                          
-                                          in <a href="https://hpcat.github.iocategories/paper">Paper</a>
-                                          
-                                          
-
-                                        </p>
-                                        <p class="date-comments">
-                                            <a href="https://hpcat.github.io/blog/2018/03/02/paper3/"><i class="fa fa-calendar-o"></i> March 2, 2018</a>
-                                        </p>
-                                    </div>
-                                    <p class="intro">Professor Ahmed Louri and his research team (S. V. Winkle, A. Kodi, R. Bunescu and A. Louri) have published a conference paper that explores machine learning to extend the power-efficieny and performance of photonic interconnects for heterogeneous multicores. The paper titled “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,” will appear in Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture, Feb. 24-28, 2018, Vienna.</p>
-                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/02/paper3/" class="btn btn-template-main">Continue reading</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </section>
-                        
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="https://hpcat.github.io/blog/2018/03/02/paper2/">
-                                          
-                                          <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
-                                          
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2><a href="https://hpcat.github.io/blog/2018/03/02/paper2/">Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Power-Efficient Kilo-Core Photonic-Wireless Hybrid NoCs”</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          
-                                          
-                                          
-                                          in <a href="https://hpcat.github.iocategories/paper">Paper</a>
-                                          
-                                          
-
-                                        </p>
-                                        <p class="date-comments">
-                                            <a href="https://hpcat.github.io/blog/2018/03/02/paper2/"><i class="fa fa-calendar-o"></i> March 2, 2018</a>
+                                            <a href="https://hpcat.github.io/blog/2018/03/13/paper2/"><i class="fa fa-calendar-o"></i> March 13, 2018</a>
                                         </p>
                                     </div>
                                     <p class="intro">Professor Ahmed Louri and his research team (A. Kodi, K. Shiflett, S. Kaya, S. Laha and A. Louri) have published a conference paper that explores power-efficient, kilo-core, photonic-wireless, hybrid Network-on-Chips. The paper titled &ldquo;Power-Efficient Kilo-Core Photonic-Wireless Hybrid NoCs,” will appear in Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 21-25, 2018, Vancouver, BC. IPDPS is an international forum for engineers and scientists from around the world to present their latest research findings in all aspects of parallel computation.</p>
-                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/02/paper2/" class="btn btn-template-main">Continue reading</a>
+                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/13/paper2/" class="btn btn-template-main">Continue reading</a>
                                     </p>
                                 </div>
                             </div>
@@ -329,7 +261,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                   <div class="image">
-                                      <a href="https://hpcat.github.io/blog/2018/03/02/article1/">
+                                      <a href="https://hpcat.github.io/blog/2018/03/12/paper3/">
                                           
                                           <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
                                           
@@ -337,7 +269,75 @@
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="https://hpcat.github.io/blog/2018/03/02/article1/">Dr. Louri and his Research Team have Published an IEEE Transactions Article titled: “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies”</a></h2>
+                                    <h2><a href="https://hpcat.github.io/blog/2018/03/12/paper3/">Dr. Louri and his Research Team have Published an IEEE International Symposium Conference Paper titled: “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning”</a></h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          
+                                          
+                                          
+                                          in <a href="https://hpcat.github.iocategories/paper">Paper</a>
+                                          
+                                          
+
+                                        </p>
+                                        <p class="date-comments">
+                                            <a href="https://hpcat.github.io/blog/2018/03/12/paper3/"><i class="fa fa-calendar-o"></i> March 12, 2018</a>
+                                        </p>
+                                    </div>
+                                    <p class="intro">Professor Ahmed Louri and his research team (S. V. Winkle, A. Kodi, R. Bunescu and A. Louri) have published a conference paper that explores machine learning to extend the power-efficieny and performance of photonic interconnects for heterogeneous multicores. The paper titled “Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning,” will appear in Proceedings of the 24th IEEE International Symposium on High-Performance Computer Architecture, Feb. 24-28, 2018, Vienna.</p>
+                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/12/paper3/" class="btn btn-template-main">Continue reading</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+                        
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="https://hpcat.github.io/blog/2018/03/11/paper5/">
+                                          
+                                          <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
+                                          
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="https://hpcat.github.io/blog/2018/03/11/paper5/">Dr. Louri and his Research Team have Published a USNC_USRI NAtional Radio Science Meeting Conference Paper titled: “Reconfigurable Intra-chip Antenna for Future Wireless Communications”</a></h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          
+                                          
+                                          
+                                          in <a href="https://hpcat.github.iocategories/paper">Paper</a>
+                                          
+                                          
+
+                                        </p>
+                                        <p class="date-comments">
+                                            <a href="https://hpcat.github.io/blog/2018/03/11/paper5/"><i class="fa fa-calendar-o"></i> March 11, 2018</a>
+                                        </p>
+                                    </div>
+                                    <p class="intro">Professor Ahmed Louri and his research team (Y. Sharma, J. Wu, A. Kantemur, J. Tak, A. Kodi, S. Kaya and H. Xin) have published a conference paper that explores future wireless communications via reconfigurable intra-chip antenna. The paper titled “Reconfigurable Intra-Chip Antenna for Future Wireless Communications,” will appear in Proceedings of the 2018 USNC-USRI National Radio Science Meeting (NRSM), Jan. 4-7, 2018, Boulder, CO. NRSM is an open scientific meeting sponsored by the U.</p>
+                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/11/paper5/" class="btn btn-template-main">Continue reading</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+                        
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="https://hpcat.github.io/blog/2018/03/09/article1/">
+                                          
+                                          <img src="https://hpcat.github.io/img/.jpg" class="img-responsive" alt="">
+                                          
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="https://hpcat.github.io/blog/2018/03/09/article1/">Dr. Louri and his Research Team have Published an IEEE Transactions Article titled: “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies”</a></h2>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           
@@ -349,11 +349,11 @@
 
                                         </p>
                                         <p class="date-comments">
-                                            <a href="https://hpcat.github.io/blog/2018/03/02/article1/"><i class="fa fa-calendar-o"></i> March 2, 2018</a>
+                                            <a href="https://hpcat.github.io/blog/2018/03/09/article1/"><i class="fa fa-calendar-o"></i> March 9, 2018</a>
                                         </p>
                                     </div>
                                     <p class="intro">Professor Ahmed Louri and his research team (A. Sikder, A. Kodi, S. Kaya, D. Carbaugh, S. Laha, A. Louri, H. Xin and J. Wu) have published a journal article that explores heterogeneity in emerging technologies in order to enhance sustainability of Network-on-Chips. The paper titled “Sustainability in Network-on-Chips by Exploring Heterogeneity in Emerging Technologies” will appear in IEEE Transactions on Sustainable Computing in 2018. This research was sponsored by the National Science Foundation.</p>
-                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/02/article1/" class="btn btn-template-main">Continue reading</a>
+                                    <p class="read-more"><a href="https://hpcat.github.io/blog/2018/03/09/article1/" class="btn btn-template-main">Continue reading</a>
                                     </p>
                                 </div>
                             </div>
