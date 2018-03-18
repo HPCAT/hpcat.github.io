@@ -192,7 +192,8 @@ The dramatic scaling and improvements in complementary metal-oxide semiconductor
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/emerging/</guid>
-      <description>Emerging Interconnects Technologies for Network-on-Chips   There is a shift from multi-core to many-core architectures containing hundreds to a thousand cores on a single chip. However, traditional on-chip metallic interconnects require excessive power as technology keeps scaling and will not be able to provide communication support for manycore architectures. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
+      <description>Emerging Interconnects Technologies for Network-on-Chips   Current Researchers: TBD; 
+There is a shift from multi-core to many-core architectures containing hundreds to a thousand cores on a single chip. However, traditional on-chip metallic interconnects require excessive power as technology keeps scaling and will not be able to provide communication support for manycore architectures. Moreover, fundamental signaling limitations (reflections, crosstalk), electromagnetic interference (EMI), clock skew, and other problems associated with metallic interconnects will only exacerbate the power dissipation problem and thereby limit the performance of future manycore processors.</description>
     </item>
     
     <item>
