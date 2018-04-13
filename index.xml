@@ -6,7 +6,6 @@
     <description>Recent content on HPCAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017 - 2018, HPCAT; all rights reserved.</copyright>
     <lastBuildDate>Wed, 14 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hpcat.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -151,8 +150,8 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/bookchapters/</guid>
-      <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
- R. Morris, A. K. Kodi and A. Louri, &amp;ldquo;Scalable Two-dimensional optical interconnects for data centers,&amp;rdquo; in Optical Interconnects for Data Centers, 1st ed., vol. , T. Tekin, N. Pleros, R. Pitwon and A. Hakansson, Ed. Oxford: Elsevier, 2016, pp.</description>
+      <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo; ; margin: 2em; display: block; font-size: 5px; }  
+ R. Morris, A. K. Kodi and A. Louri, &amp;ldquo;Scalable Two-dimensional optical interconnects for data centers,&amp;rdquo; in Optical Interconnects for Data Centers, 1st ed., vol. , T. Tekin, N. Pleros, R.</description>
     </item>
     
     <item>
@@ -161,8 +160,8 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/conferences/</guid>
-      <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
- M. Clark, A. Kodi, R. Bunescu and A. Louri, &amp;ldquo;LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,&amp;rdquo; to appear in Proceedings of the 55th Design Automation Conference (DAC), San Francisco, CA, 2018.  A. Kodi, K.</description>
+      <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo; ; margin: 2em; display: block; font-size: 5px; }  
+ M. Clark, A. Kodi, R. Bunescu and A. Louri, &amp;ldquo;LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs,&amp;rdquo; to appear in Proceedings of the 55th Design Automation Conference (DAC), San Francisco, CA, 2018.</description>
     </item>
     
     <item>
