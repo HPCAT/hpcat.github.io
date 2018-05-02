@@ -6,13 +6,22 @@
     <description>Recent content in Paper on HPCAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hpcat.github.io/categories/paper/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dr. Louri and his Research Team Design Automation Conference Paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs” was accepted</title>
+      <title>Our Graduate students Ke Wang and Hao Zheng placed 1st and 2nd respectively at the George Washington Research Days Competition</title>
+      <link>https://hpcat.github.io/blog/2018/05/02/haocory/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/blog/2018/05/02/haocory/</guid>
+      <description>Dr. Louri research students Hao Zheng and Ke Wang participated in competition Research Days hosted at The George Washington University. Both students presented their respective research topics: &amp;ldquo;Energy-efficient Scalable Multicore Architecture&amp;rdquo; and &amp;ldquo;Machine Learning for High Performance, Energy-efficient and Reliable NoCs&amp;rdquo;. Hao placed 2nd in the Graduate Engineering category and Ke won the AccelerateGW I-Corps Site Grant.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Louri and his Research Team submitted a paper titled: “LEAD: Learning-enabled Energy-Aware Dynamic Voltage/Frequency Scaling in NoCs” at the Design Automation Conference, which  was accepted</title>
       <link>https://hpcat.github.io/blog/2018/03/14/paper1/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
       
