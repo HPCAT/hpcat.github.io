@@ -245,7 +245,7 @@ R. W. Morris, A. K. Kodi, A. Louri and R. D. Whaley, &amp;ldquo;Three-Dimensiona
       
       <guid>https://hpcat.github.io/machinel/</guid>
       <description>//p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { line-height: 0.0; }  
- Machine Learning for High Performance, Energy-Efficient and Reliable NoCs   Current Researchers: TBD; 
+ Machine Learning for High Performance, Energy-Efficient and Reliable NoCs   Current Researchers: Ke Wang, Hao Zheng, Jie Luo; 
 With continued aggressive technology scaling, Network-on- Chips (NoCs) architectures are facing three major challenges including minimizing power consumption, scaling performance and providing a reliable and robust communication limited by area, power, and cost constraints.</description>
     </item>
     
