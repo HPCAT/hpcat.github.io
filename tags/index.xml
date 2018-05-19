@@ -6,10 +6,19 @@
     <description>Recent content in Tags on HPCAT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hpcat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hpca</title>
+      <link>https://hpcat.github.io/tags/hpca/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/tags/hpca/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ieee</title>
@@ -17,6 +26,15 @@
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://hpcat.github.io/tags/ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nsf</title>
+      <link>https://hpcat.github.io/tags/nsf/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpcat.github.io/tags/nsf/</guid>
       <description></description>
     </item>
     
