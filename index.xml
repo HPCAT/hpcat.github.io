@@ -200,7 +200,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       
       <guid>https://hpcat.github.io/journals/</guid>
       <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo; ; margin: 2em; display: block; font-size: 5px; }  
- A. Louri, J. Collet and A. Karanth, &amp;ldquo;Limit of Hardware Solutions for Self-Protecting Fault-Tolerant NoCs,&amp;rdquo; to appear in ACM Journal on Emerging Technologies in Computing Systems (JETC), 2018.  A.</description>
+ Q. Fettes, M. Clark, R. Bunescu, A. Karanth, and A. Louri, &amp;ldquo;Dynamic Voltage and Frequency Scaling in NoCs with Supervised and Reinforcement Learning Techniques,&amp;rdquo; to appear in IEEE Transactions on Computers (TC), 2018.</description>
     </item>
     
     <item>
