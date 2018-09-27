@@ -190,7 +190,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       
       <guid>https://hpcat.github.io/conferences/</guid>
       <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo; ; margin: 2em; display: block; font-size: 5px; }  
- Y. Chen, M.F. Reza and A. Louri, &amp;ldquo;DEC-NoC: An Approximate Framework based on Dynamic Error Control with Applications to Energy-efficient NoCs,&amp;rdquo; to appear in Proceedings of the 36th IEEE International Conference on Computer Design (ICCD), Orlando, FL, October 7-10, 2018.</description>
+ T. F. Canan, S. Kaya, A. Karanth, H. Xin, and A. Louri, &amp;ldquo;10T and 8T Full Adders Based on Ambipolar XOR Gates with SB-FinFETs,&amp;rdquo; to appear in Proceedings of the 25th International Conference on Electronic Circuits and Systems (ICECS), Bordeux, France, December 9-12, 2018.</description>
     </item>
     
     <item>
@@ -200,7 +200,7 @@ Parmvir Chahal Parmvir assists the laboratory in researching Network-on-Chips (N
       
       <guid>https://hpcat.github.io/journals/</guid>
       <description>Journal Papers | Conference Papers | Book Chapters    //p { // text-indent: 50px; // } a { font-weight: 900; text-decoration: underline; } br { content: &amp;ldquo;&amp;rdquo; ; margin: 2em; display: block; font-size: 5px; }  
- Q. Fettes, M. Clark, R. Bunescu, A. Karanth, and A. Louri, &amp;ldquo;Dynamic Voltage and Frequency Scaling in NoCs with Supervised and Reinforcement Learning Techniques,&amp;rdquo; to appear in IEEE Transactions on Computers (TC), 2018.</description>
+ T. F. Canan, S. Kaya, A. Karanth, A. Louri, and H. Xin &amp;ldquo;Ambipolar SB-FinFETs: A New Path to Ultra-Compact sub-10nm Logic Circuits,&amp;rdquo; to appear in IEEE Transactions on Electron Devices (TED), 2018.</description>
     </item>
     
     <item>
