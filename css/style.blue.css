@@ -1236,6 +1236,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousels ul,
 .home-carousels p {
   font-size: 18px;
+  word-break: break-all;
 /*  font-weight: 700;*/
   padding: 0;
 /*  text-transform: uppercase;*/
