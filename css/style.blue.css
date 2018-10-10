@@ -1235,7 +1235,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousels ul,
 .home-carousels p {
-  font-size: 18px;
+  font-size: 16px;
 /*  font-weight: 700;*/
   padding: 0;
 /*  text-transform: uppercase;*/
@@ -1244,7 +1244,7 @@ fieldset[disabled] .btn-template-primary.active {
 @media (max-width: 991px) {
   .home-carousels ul,
   .home-carousels p {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 .home-carousel {
